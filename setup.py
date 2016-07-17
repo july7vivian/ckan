@@ -208,7 +208,4 @@ setup(
 
 
 <<<<<<< HEAD
-# add 
-=======
-#Add by Dan Luo
->>>>>>> 88e89150d44c6314e5c8921d0c86dc8d6e545908
+
